@@ -2,7 +2,7 @@
 📊 Project Description
 This project involves analyzing global COVID-19 trends over time, focusing on cases, deaths, recoveries, and vaccinations across various countries. By using real-world data, the project aims to provide insights into how the pandemic has unfolded, the effectiveness of vaccination rollouts, and regional comparisons of COVID-19 metrics.
 
-🎯 ### Project Objectives
+### 🎯 Project Objectives
 Import and clean global COVID-19 data
 
 Analyze time trends for cases, deaths, recoveries, and vaccinations
@@ -13,7 +13,7 @@ Visualize trends using various charts
 
 Create a Jupyter notebook (or app) to present insights and findings
 
-🛠️ ### Tools and Libraries Used
+###🛠️ Tools and Libraries Used
 Python: The primary programming language used for data analysis.
 
 Jupyter Notebook: An interactive development environment to run code and document findings.
@@ -28,7 +28,7 @@ numpy: For numerical operations and calculations.
 
 csv files from Our World in Data: Data source for COVID-19 trends.
 
-🚀 ### How to Run/View the Project
+###🚀 How to Run/View the Project
 Prerequisites
 Make sure you have Python and Jupyter Notebook installed, along with the following libraries:
 
@@ -61,7 +61,7 @@ Open the .ipynb file (e.g., covid19_data_analysis.ipynb) in Jupyter Notebook.
 
 Run the cells step by step (press Shift + Enter) to execute the code and view the results.
 
-💡 ### Insights and Reflections
+###💡 Insights and Reflections
 Data Quality: The dataset provides valuable insights into the progress of the pandemic, but missing or inconsistent data can sometimes skew the analysis. It’s important to clean and preprocess the data carefully.
 
 Regional Insights: The project reveals stark differences between countries in terms of vaccination rates, case rates, and deaths, highlighting the global disparity in pandemic response.
