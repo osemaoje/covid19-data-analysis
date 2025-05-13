@@ -44,10 +44,9 @@ jupyter
 
 To install the required libraries, run:
 
-bash
-Copy
-Edit
+````
 pip install pandas matplotlib seaborn plotly jupyter
+````
 Running the Project
 Clone or download this repository to your local machine.
 
@@ -55,7 +54,6 @@ Open the folder containing the project in VS Code or another code editor.
 
 Launch Jupyter Notebook from the terminal:
 
-bash
 ````
 jupyter notebook
 ````
